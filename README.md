@@ -1,2 +1,2 @@
 # CSS-GRID-LAYOUT
-Aplicação do Livro CSS Grid Lauout | Autor: Maurício Samy Silva
+Aplicação do Livro CSS Grid Layout | Autor: Maurício Samy Silva
