@@ -1,0 +1,16 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    background-color: tomato;
+    display: grid;
+    grid-template: 80px 100px 100px / 100px 50px 80px 200px;
+}
+
+.box {
+    background-color: lightgray;
+    border: 1px solid darkgray;
+}
