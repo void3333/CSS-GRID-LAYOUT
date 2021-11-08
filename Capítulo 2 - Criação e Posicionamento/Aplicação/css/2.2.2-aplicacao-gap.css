@@ -1,4 +1,5 @@
-html, body {
+html,
+body {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -7,7 +8,7 @@ html, body {
 .container {
     background-color: tomato;
     display: grid;
-    grid-template-columns: 100px 50px 80px  200px;
+    grid-template-columns: 100px 50px 80px 200px;
     grid-template-rows: 80px 100px 100px;
     grid-gap: 20px 10px;
 }
